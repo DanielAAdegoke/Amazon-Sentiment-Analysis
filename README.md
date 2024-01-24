@@ -20,9 +20,6 @@ Welcome to the Amazon Product Reviews Dataset! This dataset provides a comprehen
 8. `total_vote`: Total number of votes given to the review.
 9. `score_pos_neg_diff`: Score difference between positive and negative evaluations.
 
- <h1 style="font-size: 22px;"> Labels </h1>
-
-
  <h1 style="font-size: 22px;"> Usage</h1>
 
 1. Exploratory Data Analysis (EDA): Conduct EDA to understand the distribution of ratings, helpfulness, and other key features.
