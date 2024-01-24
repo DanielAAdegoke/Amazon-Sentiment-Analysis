@@ -10,8 +10,8 @@ Welcome to the Amazon Product Reviews Dataset! This dataset provides a comprehen
 - Columns: 12
 
 <h1 style="font-size: 22px;"> Columns </h1>
-<h1 1. `reviewerName`: Name of the reviewer </h1>
-<h1 2. `overall`: Overall product rating given by the reviewer. </h1>
+1. `reviewerName`: Name of the reviewer 
+2. `overall`: Overall product rating given by the reviewer. 
 3. `reviewText`: Full text of the review.
 4. `reviewTime`: Timestamp of the review submission.
 5. `day_diff`: Number of days since the assessment.
