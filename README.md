@@ -10,15 +10,16 @@ Welcome to the Amazon Product Reviews Dataset! This dataset provides a comprehen
 - Columns: 12
 
 <h1 style="font-size: 22px;"> Columns </h1>
-1. `reviewerName`: Name of the reviewer 
-2. `overall`: Overall product rating given by the reviewer. 
-3. `reviewText`: Full text of the review.
-4. `reviewTime`: Timestamp of the review submission.
-5. `day_diff`: Number of days since the assessment.
-6. `helpful_yes`: Count of users who found the review helpful.
-7. `helpful_no`: Count of users who did not find the review helpful.
-8. `total_vote`: Total number of votes given to the review.
-9. `score_pos_neg_diff`: Score difference between positive and negative evaluations.
+
+- `reviewerName`: Name of the reviewer 
+- `overall`: Overall product rating given by the reviewer. 
+- `reviewText`: Full text of the review.
+- `reviewTime`: Timestamp of the review submission.
+- `day_diff`: Number of days since the assessment.
+- `helpful_yes`: Count of users who found the review helpful.
+- `helpful_no`: Count of users who did not find the review helpful.
+- `total_vote`: Total number of votes given to the review.
+- `score_pos_neg_diff`: Score difference between positive and negative evaluations.
 
  <h1 style="font-size: 22px;"> Usage</h1>
 
@@ -28,6 +29,7 @@ Welcome to the Amazon Product Reviews Dataset! This dataset provides a comprehen
 4. User Engagement Strategies: Provide feedback to e-commerce sites and sellers to improve customer satisfaction based on insights from the dataset.
 
 <h1 style="font-size: 22px;"> Sample Reviews </h1>
+
 Here are a few sample reviews to provide an overview:
 1. User: Amazon Customer
    - Rating: 2.0
